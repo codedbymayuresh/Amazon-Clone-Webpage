@@ -1,2 +1,33 @@
-# Amazon-Clone-Webpage
-A simple Amazon clone webpage built using HTML &amp; CSS to practice layout design, flexbox, and styling fundamentals.
+# Amazon Clone (Frontend Project)
+
+A simple **Amazon Clone webpage** built using **HTML & CSS**.  
+This project was created as part of my journey while learning frontend development basics.
+
+---
+
+## 🚀 Features
+- Amazon-like **navigation bar** with search, cart, and login sections  
+- **Hero section** with promotional banner  
+- **Product grid layout** using flexbox  
+- Simple **footer** styled like Amazon  
+- Hover effects for better UI feel  
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5**
+- **CSS3**
+- **Font Awesome** (icons)
+
+---
+
+## 📚 What I Learned
+- Structuring webpages using **HTML**  
+- Styling layouts with **Flexbox**  
+- Creating **responsive sections**  
+- Adding hover effects & basic interactivity with CSS  
+
+---
+
+
+
