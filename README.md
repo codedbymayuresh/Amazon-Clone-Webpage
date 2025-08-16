@@ -30,4 +30,9 @@ This project was created as part of my journey while learning frontend developme
 ---
 
 
+> **Note:** I did not directly copy the code.  
+> First, I implemented the project using my own logic, and later referred to Shraddha Di's code only to correct mistakes and improve my implementation.
+
+
+
 
